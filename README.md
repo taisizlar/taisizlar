@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">سلام! من مهدی هستم</h1>
 
-<!--
-**taisizlar/taisizlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2>درباره من</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+من یک توسعه‌دهنده با علاقه‌ی زیاد به یادگیری و خلق پروژه‌های جدید هستم. تخصص من بیشتر در زمینه‌های <strong>Python</strong>، <strong>PHP</strong> و <strong>توسعه‌ی وب</strong> متمرکز شده و همواره در تلاش برای ارتقاء مهارت‌هام هستم.
+</p>
+
+<h2>مهارت‌ها</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,cpp,c,bash&perline=3" alt="Skills" />
+</p>
