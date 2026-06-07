@@ -11,5 +11,5 @@ I'm a developer with a strong passion for learning and creating new projects. My
 <h2>Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,cpp,c,bash&perline=3" alt="Programming languages and tools I use" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,bash&perline=3" alt="Programming languages and tools I use" />
 </p>
